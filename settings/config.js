@@ -7,7 +7,7 @@ module.exports = {
    * @description requires settings for the bot
    */
 
-  TOKEN: process.env.TOKEN || "MTE0MTI3ODcxMTUzNTExNjMxOA.GUjyJG.24LUlUiNFuIjItL-qEraLpPYtOfn2oBJzc_O64",  // your bot token
+  TOKEN: process.env.TOKEN || "MTE0MDI1ODYwMDQwNTcwNDc2Ng.G9tE2L.bImFV8hJnsg4yDgRNMjw-7U941X8BoCVqqrJUI",  // your bot token
   PREFIX: process.env.PREFIX || "!", //<= default is #  // bot prefix
   OWNER_ID: process.env.OWNER_ID || "954533100573065226", //your client id
 
